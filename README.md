@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/samaritanministries/forms.js.svg?branch=master)](https://travis-ci.org/bwvoss/forms.js)
+[![Build Status](https://travis-ci.org/samaritanministries/forms.js.svg?branch=master)](https://travis-ci.org/samaritanministries/forms.js)
 
 # FormsJs
 
